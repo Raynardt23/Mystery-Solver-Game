@@ -1,0 +1,4 @@
+INSERT INTO suspects (suspect_id, name, job_role, description, is_guilty) VALUES
+(1, 'Lt. Adrian Novak', 'Head of Security', 'Former military officer haunted by battlefield losses, obsessively loyal to Nexus, but rumored to hide classified failures', FALSE),
+(2, 'Felix Jones', 'AI Systems Engineer', 'Brilliant coder with unorthodox methods, once dismissed for unstable experiments, insists the AI whispers things only he hears', FALSE),
+(3, 'Dr. Naomi Vexler', 'Cipher Specialist', 'Prodigy cryptographer driven by obsession with unsolvable codes, rumored to hide encrypted diaries no one has ever cracked', TRUE);
